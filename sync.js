@@ -162,7 +162,7 @@ function getFilesFromLastMessage(cb) {
 
 function lastChangFiles(cb) {
     var lastSuccessMessageId = 'HEAD^';
-    var remote = 'https://raw.githubusercontent.com/fis-components/components/history/commitId.log';
+    var remote = 'https://raw.githubusercontent.com/mtt-components/components/history/commitId.log';
     
     console.log('Fetching ' + remote);
 
