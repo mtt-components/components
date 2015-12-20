@@ -36,6 +36,3 @@ node_modules
 
 # IDE
 .idea
-
-# local sync temp dir
-temp
