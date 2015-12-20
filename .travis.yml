@@ -10,9 +10,9 @@ install:
 - npm install -g npm
 - npm install
 after_success:
-# - git config --global user.email "fansekey@gmail.com"
-# - git config --global user.name "xiangshouding"
-# - git remote set-url origin https://github.com/fis-components/components.git
+# - git config --global user.email "1007650009@qq.com"
+# - git config --global user.name "mmillet"
+# - git remote set-url origin https://github.com/mtt-components/components.git
 # - git config credential.helper "store --file=.git/credential"
 # - echo "https://${GH_TOKEN}:@github.com" > .git/credential
 # - git checkout master

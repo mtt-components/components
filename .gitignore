@@ -33,3 +33,6 @@ node_modules
 /tools/etc
 
 .DS_Store
+
+# IDE
+.idea
