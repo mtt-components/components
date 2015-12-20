@@ -1,5 +1,5 @@
 'use strict';
-
+//test for CI sync
 module.exports = (function() {
     return [
         {
