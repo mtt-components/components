@@ -1,5 +1,5 @@
 'use strict';
-
+//update for sync
 module.exports = (function() {
     return [
         {
