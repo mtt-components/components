@@ -14,8 +14,8 @@ module.exports = (function() {
                 release: 'layer.js'
             },
             {
-                reg: /^\/src\/skin\/.*$/,
-                release: '/skin'
+                reg: /^\/src\/skin\/(.*)$/,
+                release: '/skin/$1'
             },
             {
                 reg: /^\/README\.md$/,
