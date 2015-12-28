@@ -3,8 +3,8 @@
 module.exports = (function() {
     return [{
         repos: 'https://github.com/select2/select2',
-        version: '4.0.0',
-        tag: '4.0.0-rc.2',
+        version: '4.0.1',
+        tag: '4.0.1',
         description: 'Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.https://select2.github.io/',
         name: 'select2',
         main: 'select2.js',
